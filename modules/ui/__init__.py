@@ -1,4 +1,4 @@
-"""UI components for AutoVAPT"""
+"""UI components for AutoDAST"""
 
 from .loading_indicator import LoadingIndicator
 

@@ -1,4 +1,4 @@
-"""Loading indicator widget for AutoVAPT."""
+"""Loading indicator widget for AutoDAST."""
 
 from PyQt6.QtWidgets import QWidget, QLabel, QVBoxLayout
 from PyQt6.QtCore import Qt, QSize

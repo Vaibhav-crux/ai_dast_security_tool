@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tool Testing Script for AutoVAPT
+Tool Testing Script for AutoDAST
 Tests all penetration testing tools to ensure they work correctly
 """
 
@@ -54,7 +54,7 @@ def test_tool(tool_name, tool_path, test_args=None):
 
 def main():
     """Main function to test all tools"""
-    print("AutoVAPT Tool Testing Script")
+    print("AutoDAST Tool Testing Script")
     print("=" * 50)
     
     # Define tool paths based on your directory structure

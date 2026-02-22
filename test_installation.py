@@ -97,7 +97,7 @@ def check_env():
         return False
 
 def main():
-    print("AutoVAPT Installation Test\n")
+    print("AutoDAST Installation Test\n")
     
     checks = [
         ("Python Version", check_python_version()),
@@ -118,7 +118,7 @@ def main():
     print("-" * 40)
     
     if all_passed:
-        print("\n✓ All checks passed! AutoVAPT is ready to use.")
+        print("\n✓ All checks passed! AutoDAST is ready to use.")
         sys.exit(0)
     else:
         print("\n✗ Some checks failed. Please fix the issues and try again.")

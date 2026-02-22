@@ -1,4 +1,4 @@
-"""Worker threads for AutoVAPT scanning and testing operations."""
+"""Worker threads for AutoDAST scanning and testing operations."""
 
 from PyQt6.QtCore import QThread, pyqtSignal
 import time

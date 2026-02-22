@@ -1,4 +1,4 @@
-"""AI model integration for AutoVAPT."""
+"""AI model integration for AutoDAST."""
 
 from llama_cpp import Llama
 import os

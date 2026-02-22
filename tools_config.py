@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Tools Configuration for AutoVAPT
+Tools Configuration for AutoDAST
 Defines paths to all penetration testing tools
 """
 
@@ -118,7 +118,7 @@ def test_python_nmap():
         return False, f"python-nmap error: {str(e)}"
 
 if __name__ == "__main__":
-    print("AutoVAPT Tools Configuration")
+    print("AutoDAST Tools Configuration")
     print("=" * 40)
     
     # Test all tools

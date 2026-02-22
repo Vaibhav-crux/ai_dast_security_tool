@@ -1,4 +1,4 @@
-This directory should contain resource files for the AutoVAPT application.
+This directory should contain resource files for the AutoDAST application.
 
 Place a professional hacker-themed animated GIF here as 'hacker_loading.gif' to be used as the loading animation in the GUI.
 

@@ -1,4 +1,4 @@
-# AutoVAPT Cyber Assistant Sample Questions
+# AutoDAST Cyber Assistant Sample Questions
 # Use these prompts to interact with the AI security assistant
 
 === 1. Vulnerability Assessment Questions ===

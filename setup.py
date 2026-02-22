@@ -83,7 +83,7 @@ def download_ai_model():
 
 def main():
     """Main setup function"""
-    print("Starting AutoVAPT setup...")
+    print("Starting AutoDAST setup...")
     
     try:
         check_python_version()
@@ -100,7 +100,7 @@ def main():
         print("2. Update the .env file with your settings")
         print("3. Download and place the AI model in the models directory")
         print("4. Install any missing external tools")
-        print("5. Run 'python main.py' to start AutoVAPT")
+        print("5. Run 'python main.py' to start AutoDAST")
         
     except Exception as e:
         print(f"\nError during setup: {e}")

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test nmap integration for AutoVAPT
+Test nmap integration for AutoDAST
 """
 
 import os
@@ -46,7 +46,7 @@ def test_port_scan_module():
         return False
 
 def main():
-    print("AutoVAPT Nmap Integration Test")
+    print("AutoDAST Nmap Integration Test")
     print("=" * 40)
     
     tests = [
