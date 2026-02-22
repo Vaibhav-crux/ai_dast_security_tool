@@ -1,0 +1,79 @@
+# AutoVAPT Cyber Assistant Sample Questions
+# Use these prompts to interact with the AI security assistant
+
+=== 1. Vulnerability Assessment Questions ===
+Q: "What are the most critical vulnerabilities found in the last scan?"
+Q: "Can you explain the severity level of the SQL injection vulnerability found?"
+Q: "What is the potential impact of the XSS vulnerability detected on /api/users?"
+Q: "How many high-severity vulnerabilities were found in the target system?"
+
+=== 2. Security Recommendations ===
+Q: "What are the recommended fixes for the open ports discovered?"
+Q: "How can we mitigate the CSRF vulnerabilities found in the application?"
+Q: "What security headers should be implemented to improve the security posture?"
+Q: "What's the best way to patch the directory traversal vulnerability?"
+
+=== 3. Risk Assessment ===
+Q: "What is the overall risk level of the target system?"
+Q: "Which vulnerabilities pose the highest risk to our data?"
+Q: "How would you prioritize the security fixes based on risk?"
+Q: "What are the potential business impacts of these security issues?"
+
+=== 4. Technical Analysis ===
+Q: "Can you explain how the directory enumeration findings could be exploited?"
+Q: "What does the JavaScript analysis reveal about potential security weaknesses?"
+Q: "How might an attacker leverage the open ports discovered in the scan?"
+Q: "What is the significance of the exposed API endpoints found?"
+
+=== 5. Compliance and Best Practices ===
+Q: "Do these findings violate any OWASP Top 10 guidelines?"
+Q: "What security best practices are currently missing in the target system?"
+Q: "How can we improve our security posture to meet industry standards?"
+Q: "What security controls should be implemented based on these findings?"
+
+=== 6. Remediation Planning ===
+Q: "What should be our first steps in addressing these vulnerabilities?"
+Q: "Can you provide a timeline estimate for fixing these security issues?"
+Q: "What tools or resources are needed to implement the recommended fixes?"
+Q: "How can we verify that the vulnerabilities have been properly patched?"
+
+=== 7. Report Analysis ===
+Q: "Can you summarize the key findings from the last scan?"
+Q: "What trends do you see in the vulnerability reports?"
+Q: "How does this scan compare to industry security benchmarks?"
+Q: "What metrics should we track to measure security improvements?"
+
+=== 8. Technical Details ===
+Q: "What versions of software are vulnerable in our system?"
+Q: "Can you explain the technical details of the authentication bypass found?"
+Q: "What protocols were identified as insecure in the scan?"
+Q: "How do the discovered vulnerabilities interact with each other?"
+
+=== 9. Prevention and Future Planning ===
+Q: "How can we prevent similar vulnerabilities in future deployments?"
+Q: "What security monitoring should we implement?"
+Q: "What security training would you recommend for our development team?"
+Q: "How can we improve our security testing process?"
+
+=== 10. Specific Tool Questions ===
+Q: "What did the port scan reveal about our network security?"
+Q: "Can you explain the subdomain enumeration results?"
+Q: "What did the JavaScript analysis find in our frontend code?"
+Q: "What are the implications of the directory bruteforce results?"
+
+=== Usage Tips ===
+1. Be specific in your questions
+2. Provide context when needed
+3. Ask follow-up questions for clarification
+4. Use the technical terms found in the scan results
+5. Reference specific findings or vulnerabilities when asking about them
+
+=== Note ===
+The Cyber Assistant can:
+- Analyze complex security findings
+- Provide detailed technical explanations
+- Offer practical recommendations
+- Help prioritize security issues
+- Explain security concepts and implications
+
+Remember to phrase your questions clearly and provide relevant context from scan results when available. 

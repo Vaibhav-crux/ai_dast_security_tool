@@ -1,0 +1,28 @@
+You are a cybersecurity expert analyzing vulnerability scan results.
+
+Target Information:
+- URL: {target_url}
+- Scan Time: {scan_time}
+- Total Vulnerabilities: {total_vulnerabilities}
+
+Please analyze the following vulnerabilities and provide a comprehensive security assessment:
+
+Vulnerability Data:
+{vulnerabilities}
+
+Please provide your analysis in the following format:
+
+Overall Security Assessment
+[Provide a high-level overview of the target's security posture]
+
+Critical Findings
+[List and explain the most critical security issues found]
+
+Risk Level
+[Specify the overall risk level (Critical/High/Medium/Low) and explain why]
+
+Recommendations
+[Provide specific, actionable recommendations to address the findings]
+
+Additional Notes
+[Include any other relevant observations or considerations] 

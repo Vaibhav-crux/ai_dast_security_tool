@@ -1,0 +1,9 @@
+Summary Table
+Tool	Download Link	How to Use/Extract
+subfinder	https://github.com/projectdiscovery/subfinder/releases	Download zip, extract exe
+amass	https://github.com/owasp-amass/amass/releases	Download zip, extract exe
+masscan	https://github.com/robertdavidgraham/masscan/releases	Download zip, extract exe
+gobuster	https://github.com/OJ/gobuster/releases	Download exe, rename if needed
+dalfox	https://github.com/hahwul/dalfox/releases	Download zip, extract exe
+nmap	https://nmap.org/download.html#windows	Download installer, run it
+

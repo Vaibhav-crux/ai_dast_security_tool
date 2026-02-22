@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Local results, logs, and reports
+logs/
+reports/
+scan_results/
+
+# Backup and sample files
+*.bak
+sample.py
+
+# Model files (if not to be tracked)
+models/*.gguf
+models/*.bin
+models/cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.tmp
+
+# Ignore generated HTML reports
+*.html
+
+# Project specific
+scan_report.html
+zap_report.html
+
+# AI Models
+models/q4_0-orca-mini-3b.gguf
+
+# Custom Files
+.env
+/venv/
+*.pyc
+
+# ... existing code ... 
