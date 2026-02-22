@@ -62,8 +62,8 @@
 
 ```bash
 # Clone your repo
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Vaibhav-crux/ai_dast_security_tool.git
+cd ai_dast_security_tool
 
 python -m venv venv
 # Windows:
@@ -116,15 +116,6 @@ Edit the `.env` file for:
 - Output paths
 - Model parameters
 - Tool binaries
-
----
-
-## 🖼️ Screenshots in Reports
-
-- If a vulnerability is found, a screenshot of the target is automatically taken and included in the PDF report.
-- No manual steps required!
-
----
 
 ---
 
